@@ -1,0 +1,5 @@
+# Don't add Binary
+main
+# IDE
+.idea/
+.vscode/
